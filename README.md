@@ -1,18 +1,22 @@
-# waste_pulse
+Waste Pulse
+"See Waste. Report It."
+A simple Flutter login page for Waste Pulse, a digital waste reporting and tracking solution.
 
-A new Flutter project.
+Features
+- Login page with email and password fields
+- Email and password validation with clear error messages
+- Show/hide password button
+- Sign Up page
+- Forgot Password link
+- Brand colours taken from the Waste Pulse logo
 
-## Getting Started
+Screenshot
+<img width="1525" height="853" alt="Screenshot (45)" src="https://github.com/user-attachments/assets/72116a35-5d1b-49f7-b3c4-97a0fb04017f" />
+<img width="1416" height="850" alt="Screenshot (44)" src="https://github.com/user-attachments/assets/cdb64b03-cec3-46e2-b9be-71b5215b7a78" />
 
-This project is a starting point for a Flutter application.
+ Note
+Authentication is not connected to a backend yet. This project covers the interface and form validation only.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# register-login_page
+Course: CSC 315
+Name: Awuhe Senater Treasure
+Matric No: BHU/24/04/05/0034
